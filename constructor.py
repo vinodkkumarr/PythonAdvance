@@ -11,6 +11,7 @@ class calculator:
     def __init__(self):
         self.a=10
         self.b=20
+        
     def addition(self):
         return self.a+self.b
     
